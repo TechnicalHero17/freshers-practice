@@ -16,3 +16,4 @@
 - [Saloni Deshmukh](http://github.com/saloni427) 
 - [Nishek Sharma](https://github.com/nisheksharma4)
 - [Abhishek Gadge](https://github.com/ptslegendplus)
+- [Pratik Barse](https://github.com/Technicalhero17-Design)
